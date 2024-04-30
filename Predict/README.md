@@ -1,1 +1,3 @@
-This is test directoryh
+This is test directory.
+
+Dismiss this directory.
