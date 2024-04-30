@@ -1,0 +1,9 @@
+.w-full {
+    width: 100%;
+}
+td {
+    text-align: center;
+}
+.floatLeft { width: 50%; float: left; }
+.floatRight {width: 50%; float: right; }
+.container { overflow: hidden; }
